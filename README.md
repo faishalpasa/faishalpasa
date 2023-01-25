@@ -1,8 +1,5 @@
 <h1> Hi, I'm Faishal <img src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" width="50"></h1>
 
-Senior Frontend Enginner at <a href="http://bareksa.com">Bareksa</a><img src="https://play-lh.googleusercontent.com/ufY1G2MCu5q7J41HmmWQkyf1cABPfqA8wS-sra9OTrgVE5dbxGLjRtBUzXAKlmcKAaI" width="20">
-<br>
-Owner at <a href="https://shopee.co.id/alunastoreid">AlunaStore.id</a>
 
 [![Twitter: faishalpasa](https://img.shields.io/badge/-faishalpasa-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/faishalpasa)
 [![Instagram: faishalpasa](https://img.shields.io/badge/-faishalpasa-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/faishalpasa)
