@@ -83,6 +83,7 @@
 
 
 ### 💻 My Projects:
+- Image Puzzle 📹[demo](https://faishalpasa.github.io/project/image-puzzle/) 🗄[repo](https://github.com/faishalpasa/image-puzzle)
 - Keychron keyboard 📹[demo](https://faishalpasa-keyboard.vercel.app/) 🗄[repo](https://github.com/faishalpasa/keyboard)
 - Fireworks with vanilla js 📹[demo](https://faishalpasa-fireworks.vercel.app/) 🗄[repo](https://github.com/faishalpasa/fireworks)
 - Image puzzle 📹[demo](https://faishalpasa-puzzle.vercel.app/) 🗄[repo](https://github.com/faishalpasa/puzzle)
