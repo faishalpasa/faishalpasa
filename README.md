@@ -16,6 +16,12 @@
   end_at: null,
   experiences: [
     {
+      company: "Bareksa",
+      positions: ["Senior Frontend Engineer"],
+      start_at: "May 2022",
+      end_at: null,
+    },
+    {
       company: "Tanihub",
       positions: ["Senior Frontend Engineer", "Frontend Engineer", "Software Engineer"],
       start_at: "Jun 2019",
